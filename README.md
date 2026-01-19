@@ -1,2 +1,2 @@
 # EcrireALUniv
-Projet poru écire à l'université
+Projet pour écire à l'université
